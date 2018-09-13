@@ -1,4 +1,4 @@
 # hello-word
 Just another repository
-<h1 aling=center>Hello word </h1>
+<h1 aling=center color='blue'>Hello word </h1>
 <hl>
